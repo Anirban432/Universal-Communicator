@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Downloaded AI models
+nllb-model/
+whisper-model/
+
+# Python cache
+__pycache__/
+
+# Temporary audio files
+*.mp3
