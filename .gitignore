@@ -8,5 +8,8 @@ whisper-model/
 # Python cache
 __pycache__/
 
-# Temporary audio files
+# Media and document files to ignore
 *.mp3
+*.mp4
+*.jpg
+*.pdf
